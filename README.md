@@ -1,6 +1,6 @@
-[Dr. Patrick Treuthardt's Homepage](+tab+https://treuthardt.weebly.com/)
+[Dr. Patrick Treuthardt's Homepage](https://treuthardt.weebly.com/)
 
-[P2DFFT](+tab+P2DFFT)
+[P2DFFT](P2DFFT)
 
 ---
 
