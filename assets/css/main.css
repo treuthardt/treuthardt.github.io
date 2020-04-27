@@ -230,6 +230,7 @@ input, select, textarea {
 		/* background: #000000 url("images/guillermo-ferla-kEEl9csCutg-unsplash_crop.jpg") bottom left; */
 		background: #000000 url("images/STSCI-H-p1917b-m-2000x1847.png") bottom left;
 		background-repeat: repeat-x;
+		background-repeat: repeat-y;
 		height: 100%;
 		left: 0;
 		opacity: 1;
