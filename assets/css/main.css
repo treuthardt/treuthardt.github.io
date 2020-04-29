@@ -232,7 +232,7 @@ input, select, textarea {
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
-		opacity: 1;
+		opacity: 0.5;
 		position: fixed;
 		top: 0;
 	}
