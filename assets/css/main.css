@@ -664,6 +664,13 @@ input, select, textarea {
 					animation-delay: 4.75s;
 				}
 
+				#header nav li:nth-child(11) {
+					-moz-animation-delay: 5s;
+					-webkit-animation-delay: 5s;
+					-ms-animation-delay: 5s;
+					animation-delay: 5s;
+				}
+
 			#header nav a {
 				-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 				-webkit-touch-callout: none;
