@@ -3835,7 +3835,7 @@ input, select, textarea {
 /* Patrick's Slider */
 /*---- NUMBER OF SLIDE CONFIGURATION ----*/
 .wrapper {
-  max-width: 30em;
+  max-width: 20em;
   margin: 1em auto;
   position: relative;
 }
