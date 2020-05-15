@@ -3836,7 +3836,7 @@ input, select, textarea {
 /*---- NUMBER OF SLIDE CONFIGURATION ----*/
 .wrapper {
   /* max-width: 60em;*/
-	max-height:350px;
+	max-height:100%;
   margin: 1em auto;
   position: relative;
 }
