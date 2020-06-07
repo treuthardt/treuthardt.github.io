@@ -104,7 +104,7 @@
 
 									<!-- Test Slider Starts Here -->
 
-									<div class="fade">
+									<div class="autoplay">
     								<div><center><img src="images/scicomm/treuthardt-32_3_orig.png" alt="Patrick Treuthardt" class="autoimage" /></center></div>
     								<div><center><img src="images/scicomm/treuthardt-41_1_orig.png" alt="Patrick Treuthardt" class="autoimage" /></center></div>
     								<div><center><img src="images/scicomm/nik-3036-edited-nik2-720_orig.jpg" alt="Patrick Treuthardt" class="autoimage" /></center></div>
@@ -113,7 +113,7 @@
 									<!-- Test Slider Ends Here -->
 
 
-											<center><span class="image"><img src="images/scicomm/treuthardt-32_3_orig.png" alt="Patrick Treuthardt" class="autoimage" /></span></center>
+											<!--<center><span class="image"><img src="images/scicomm/treuthardt-32_3_orig.png" alt="Patrick Treuthardt" class="autoimage" /></span></center>-->
 											<p align="left">Some examples of my science communication and public outreach activities include giving talks, sitting on panels, hosting observing sessions, visiting schools, etc. The following links contain examples of some of these activities.</p>
 
 									<footer class="major">
@@ -211,6 +211,12 @@
 					speed: 500,
 					fade: true,
 					cssEase: 'linear'
+				});
+				$('.autoplay').slick({
+  				slidesToShow: 3,
+  				slidesToScroll: 1,
+  				autoplay: true,
+  				autoplaySpeed: 2000,
 				});
   		</script>
 
