@@ -104,7 +104,7 @@
 
 									<!-- Test Slider Starts Here -->
 
-									<div class="single-item">
+									<div class="fade">
     								<div><center><img src="images/scicomm/treuthardt-32_3_orig.png" alt="Patrick Treuthardt" class="autoimage" /></center></div>
     								<div><center><img src="images/scicomm/treuthardt-41_1_orig.png" alt="Patrick Treuthardt" class="autoimage" /></center></div>
     								<div><center><img src="images/scicomm/nik-3036-edited-nik2-720_orig.jpg" alt="Patrick Treuthardt" class="autoimage" /></center></div>
@@ -205,6 +205,13 @@
     		$(document).ready(function(){
 					$('.single-item').slick();
     		});
+				$('.fade').slick({
+					dots: true,
+					infinite: true,
+					speed: 500,
+					fade: true,
+					cssEase: 'linear'
+				});
   		</script>
 
 	</body>
