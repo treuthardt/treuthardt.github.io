@@ -228,10 +228,10 @@ input, select, textarea {
 
 		/* background: #348cb2 url("images/bg.jpg") bottom left; */
 		/* background: #000000 url("images/guillermo-ferla-kEEl9csCutg-unsplash_crop.jpg") bottom left; */
-		background: #000000 url("images/STSCI.png") top left;
-		background-repeat: repeat-x;
+		background: #000000 url("images/STSCI.png") bottom left;
+		background-repeat: repeat-y;
 		/* background-repeat: repeat-y;*/
-		height: 200%;
+		height: 100%;
 		left: 0;
 		opacity: 1;
 		position: fixed;
