@@ -229,7 +229,7 @@ input, select, textarea {
 		/* background: #348cb2 url("images/bg.jpg") bottom left; */
 		/* background: #000000 url("images/guillermo-ferla-kEEl9csCutg-unsplash_crop.jpg") bottom left; */
 		background: #000000 url("images/STSCI.png") bottom left;
-		background-repeat: repeat-y;
+		background-repeat: repeat-y, repeat-x;
 		/* background-repeat: repeat-y;*/
 		height: 100%;
 		left: 0;
