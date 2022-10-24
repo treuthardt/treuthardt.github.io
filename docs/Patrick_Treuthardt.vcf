@@ -1,6 +1,6 @@
 BEGIN:VCARD
 VERSION:4.0
-PRODID:Patrick Treuthardt
+SOURCE:https://treuthardt.github.io/docs/Patrick_Treuthardt.vcf 
 N:Treuthardt;Patrick;Ph.D.;;
 FN:Patrick Treuthardt, Ph.D.
 EMAIL;TYPE=work:patrick.treuthardt@naturalsciences.org
@@ -11,12 +11,11 @@ TZ:America/New_York
 SOURCE:https://treuthardt.github.io/docs/Patrick_Treuthardt.vcf
 URL;TYPE=homepage:https://treuthardt.github.io
 ADR;TYPE=work:;;11 West Jones Street;Raleigh;NC;27601;USA
-URL:https://twitter.com/PTreuthardt
 URL:https://www.linkedin.com/in/treuthardt
+URL:https://twitter.com/PTreuthardt
 URL:https://www.facebook.com/ptreuthardt/
 URL:https://www.instagram.com/ptreuthardt/
 CATEGORIES:Astronomer,Astrophysicist,Science Communicator
 KIND:individual
-LOGO;MEDIATYPE=image/png:https://naturalsciences.org/images/footer_left.png
 NOTE:I am an astrophysicist whose research is focused on the morphology and dynamics of disk galaxies. I also take part in science communication and public outreach activities that increase access to astronomy and science in general. I am currently the Assistant Head of the Astronomy and Astrophysics Research Lab at the North Carolina Museum of Natural Sciences.
 END:VCARD
