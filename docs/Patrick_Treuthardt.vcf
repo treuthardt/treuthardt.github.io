@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:4.0
 SOURCE:https://treuthardt.github.io/docs/Patrick_Treuthardt.vcf 
-N:Treuthardt;Patrick;Ph.D.;;
+N:Treuthardt, Ph.D.;Patrick;;
 FN:Patrick Treuthardt, Ph.D.
 EMAIL;TYPE=work:patrick.treuthardt@naturalsciences.org
 ORG:North Carolina Museum of Natural Sciences
