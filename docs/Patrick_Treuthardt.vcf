@@ -4,6 +4,7 @@ SOURCE:https://treuthardt.github.io/docs/Patrick_Treuthardt.vcf
 REV:2022-25-10
 N:Treuthardt;Patrick;;;Ph.D.
 FN:Patrick Treuthardt, Ph.D.
+GENDER:M
 EMAIL;TYPE=internet,work:patrick.treuthardt@naturalsciences.org
 ORG:North Carolina Museum of Natural Sciences
 TEL;TYPE=work:(919) 707-9278
