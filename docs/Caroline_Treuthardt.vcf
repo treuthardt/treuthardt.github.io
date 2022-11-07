@@ -5,13 +5,16 @@ REV:2022-07-11
 N:Treuthardt;Caroline;G.;;
 FN:Caroline G. Treuthardt
 GENDER:F
+LANG;PREF=1:en
 EMAIL;TYPE=internet,work:caroline.treuthardt@ul.org
-ORG:Underwriters Laboratories, Inc.
-TEL;TYPE=work:(919) 549-0922
-TITLE:Standards Engineer/Project Manager
+ORG:UL Standards & Engagement
+ROLE:Engineer
+TEL;TYPE=voice,work:(919) 549-0922
+TITLE:Standards Engineer / Project Manager
 TZ:America/New_York
 ADR;TYPE=work:;;12 Laboratory Drive;Research Triangle Park;NC;27709;USA
-URL:https://www.linkedin.com/in/caroline-treuthardt-2665076/
+URL;PREF=1:https://www.linkedin.com/in/caroline-treuthardt-2665076/
+URL;TYPE=work:https://ulse.org/
 KIND:individual
 CATEGORIES:Standards Engineer,Project Manager
 NOTE:Experienced Project Manager with a demonstrated history of working in the public safety industry. Skilled in Negotiation, Analytical Skills, Sales, Retail, and Textiles. Strong engineering professional graduated from Vanderbilt and Kansas State Universities.
